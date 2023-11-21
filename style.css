@@ -1,3 +1,13 @@
 h1{
-    color: red;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
 }
